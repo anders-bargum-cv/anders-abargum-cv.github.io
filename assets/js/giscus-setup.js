@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "anders-bargum-cv/anders-abargum-cv.github.io",
+    "data-repo": "anders-bargum-cv/anders-bargum-cv.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",

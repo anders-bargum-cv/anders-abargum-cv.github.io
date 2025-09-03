@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://anders-abargum-cv.github.io/sitemap.xml
+Sitemap: https://anders-bargum-cv.github.io/sitemap.xml
